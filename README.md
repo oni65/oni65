@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thombomb2009/butter-hub/main/BUTTERLT2.txt'))()
+loadstring(game:HttpGet('https://www.roblox.com/games/9880062154/The-Last-Strandeds'))()
